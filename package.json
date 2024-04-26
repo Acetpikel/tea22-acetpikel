@@ -1,0 +1,23 @@
+{
+  "name": "tea22-acetpikel",
+  "version": "1.0.1",
+  "description": "常用的表单验证",
+  "main": "validateForm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Acetpikel/tea22-acetpikel.git"
+  },
+  "keywords": [],
+  "author": "Acetpikel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acetpikel/tea22-acetpikel/issues"
+  },
+  "homepage": "https://github.com/Acetpikel/tea22-acetpikel#readme",
+  "dependencies": {
+    "zwbutils": "^1.0.4"
+  }
+}
